@@ -1,0 +1,27 @@
+Object Storage Overview
+Object storage is a requisite cornerstone of today's Internet scale applications. 
+It is an evolution of traditional block storage, which manages data as blocks and file storage, which manages data as a file hierarchy. 
+Object storage systems manage data as objects in a flat organization of containers (buckets) and use globally unique identifier (key) to retrieve it. 
+Each object typically includes variable amount of metadata allowing object storage system to scale out almost endlessly by simply adding nodes to the infrastructure.
+Object storage systems allow cost effective, scalable and self-healing retention of massive amounts of unstructured data. 
+Advanced object storage solutions also come with services based, distributed, redundant, commodity principles of the cloud applied.
+For example, object storage is used to build Storage as a Service (StaaS) and to provide secondary storage for cloud compute platforms. Cloudian HyperStore object storage software
+Cloudian HyperStore is the only 100% Amazon S3-compliant object storage software that enables service providers and enterprises to build reliable, affordable and scalable cloud storage solutions.
+Cloudian HyperStore is a fully S3 API compliant, multi-tenant, multi-datacenter cloud storage platform. 
+Cloud Service Providers can use HyperStore to deploy public clouds and managed private clouds, and enterprises can use HyperStore to deploy private and hybrid clouds.
+HyperStore storage is secure, easy to install, infinitely scalable, extremely reliable, and backed by a proven, carrier-grade support team.
+Cloudian is actively partnering with the leading cloud computing platforms including Citrix Cloud Platform and Openstack, cloud on-ramp providers, and the vast ecosystem of tools and applications that is afforded through true S3 compatibility.
+The Cloudian HyperStore Difference
+Why CloudianMulti Data Center, Single Ring
+Replicas are stored across Data Centers
+S3 compatibility
+Cloudian HyperStore's goal is to be 100% S3 API compatible. As the de facto standard and the largest ecosystem in the cloud storage market, S3 compatibility gives customers instant access to all of the tools and features offered within the ecosystem.
+Quick deployment as an off-the shelf solution 
+Cloudian HyperStore is an off-the-shelf software platform that is ready to use allowing customers to deploy cloud storage services without
+integration hassle or lengthy install times.
+Leverages Commodity Hardware
+Cloudian HyperStore uses existing low cost commodity hardware to build out a highly reliable service at minimal expense.
+Full Support and Professional Services 
+Cloudian HyperStore offers full support and services for both Service Providers and Enterprises. Cloudian has over 10 years of experience in deploying large transaction systems with some of the world's largest service providers.
+Community Edition 
+Cloudian enables enterprises and service providers to deploy the Cloudian HyperStore solution today with the new Community Edition, free up to 10 Terabytes.
